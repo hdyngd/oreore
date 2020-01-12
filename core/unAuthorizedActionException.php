@@ -1,7 +1,4 @@
 <?php
 
 
-class unAuthorizedActionException
-{
-
-}
+class unAuthorizedActionException extends Exception {};
